@@ -3,3 +3,5 @@ Website to list all available QPUs and rank them based on different criteria
 
 - Yearly awards to best startup QPU?
 - qBAS metric?
+- quantum chemistry metrics?
+- take a meeting w robert wille to talk about MQSS
